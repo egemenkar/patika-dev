@@ -17,7 +17,7 @@ In this repo there are projects that I've created for the patika.dev's assignmen
 For HTML/CSS/JavaScript only assignments:
 
 * Clone the repository to your desktop.
-* Navigate to the top level of the directory.
+* Navigate to the project folder.
 * Open index.html in your browser.
 
 ## License
