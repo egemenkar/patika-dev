@@ -1,0 +1,63 @@
+body {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+nav {
+  width: 500px;
+  background-color: blueviolet;
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+nav ul li {
+  list-style-type: none;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  
+}
+
+nav ul li a:hover {
+  background-color: white;
+  color: blueviolet;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form label {
+  margin: 10px;
+}
+
+form button {
+  height: 30px;
+  width: 100px;
+  color: white;
+  background-color: violet;
+}
+
+form button:hover {
+  transform: scale(0.95);
+}
